@@ -212,3 +212,13 @@ footer .social-links a {
 footer .social-links a:hover {
     color: #ED5E19;
 }
+
+.formation {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 100vh;
+    padding: 2rem;
+}
