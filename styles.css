@@ -211,3 +211,9 @@ footer .social-links a {
 footer .social-links a:hover {
     color: #ED5E19;
 }
+
+.footer-links img {
+    width: 25px;
+    height: 25px;
+    margin-bottom: 5px;
+}
