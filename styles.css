@@ -53,16 +53,17 @@ header nav ul li a:hover {
 }
 
 .hero {
-    background-image: url('hero-image.jpg');
-    background-size: cover;
-    background-position: center;
-    height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: #fff;
-    text-align: center;
-    padding: 0 2rem;
+    background-image: url('img/hero1.jpg');
+    background-size: cover; /* Ajusta a imagem para cobrir toda a área */
+    background-position: center; /* Centraliza a imagem */
+    background-repeat: no-repeat; /* Não repete a imagem */
+    height: 100vh; /* Define a altura da seção como 100% da altura da viewport */
+    color: white; /* Define a cor do texto para garantir legibilidade */
+    display: flex; /* Usa flexbox para o alinhamento do conteúdo */
+    align-items: center; /* Centraliza verticalmente */
+    justify-content: center; /* Centraliza horizontalmente */
+    text-align: center; /* Centraliza o texto */
+    padding: 0 2rem; /* Adiciona padding lateral */
 }
 
 .hero-content h1 {
