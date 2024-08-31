@@ -53,7 +53,7 @@ header nav ul li a:hover {
 }
 
 .hero {
-    background-image: url('img/hero1.jpg');
+    background-image: url('img/hero4.png');
     background-size: cover; /* Ajusta a imagem para cobrir toda a área */
     background-position: center; /* Centraliza a imagem */
     background-repeat: no-repeat; /* Não repete a imagem */
